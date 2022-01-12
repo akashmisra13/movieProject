@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/movieProject/static/css/main.f7a40346.chunk.css",
+    "main.js": "/movieProject/static/js/main.b08dc3f5.chunk.js",
+    "main.js.map": "/movieProject/static/js/main.b08dc3f5.chunk.js.map",
+    "runtime-main.js": "/movieProject/static/js/runtime-main.b929d977.js",
+    "runtime-main.js.map": "/movieProject/static/js/runtime-main.b929d977.js.map",
+    "static/css/2.13ccc91c.chunk.css": "/movieProject/static/css/2.13ccc91c.chunk.css",
+    "static/js/2.e9da3f9e.chunk.js": "/movieProject/static/js/2.e9da3f9e.chunk.js",
+    "static/js/2.e9da3f9e.chunk.js.map": "/movieProject/static/js/2.e9da3f9e.chunk.js.map",
+    "index.html": "/movieProject/index.html",
+    "static/css/2.13ccc91c.chunk.css.map": "/movieProject/static/css/2.13ccc91c.chunk.css.map",
+    "static/css/main.f7a40346.chunk.css.map": "/movieProject/static/css/main.f7a40346.chunk.css.map",
+    "static/js/2.e9da3f9e.chunk.js.LICENSE.txt": "/movieProject/static/js/2.e9da3f9e.chunk.js.LICENSE.txt",
+    "static/media/loginimage.a006801a.png": "/movieProject/static/media/loginimage.a006801a.png",
+    "static/media/signupimg.74e606bb.png": "/movieProject/static/media/signupimg.74e606bb.png",
+    "static/media/slick-theme.css": "/movieProject/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b929d977.js",
+    "static/css/2.13ccc91c.chunk.css",
+    "static/js/2.e9da3f9e.chunk.js",
+    "static/css/main.f7a40346.chunk.css",
+    "static/js/main.b08dc3f5.chunk.js"
+  ]
+}
